@@ -1,0 +1,44 @@
+C:\Users\Numair Shaikh\Desktop\Healthcare-Pr1\PrHealthcare\src>
+C:\Users\Numair Shaikh\Desktop\Healthcare-Pr1\PrHealthcare\src>java HospServer.java
+Retrieving all data from Database...
+Doctor ID       FirstName       LastName        Specialization
+107     Numair  Shaikh  Orthopedics
+106     Aditya  Mandke  ENT
+105     Sergio  Ageuro  Physician
+104     Zaeem   Azmi    Opthamology
+103     Kuldeep Phadtare        Neurology
+102     Barry   Allen   Neurology
+101     Oliver  Queen   Orthopedics
+Enter Your Doctor's ID :        107
+Enter Your Password :   num123
+Welcome Dr. Numair Shaikh
+Server Created on Server Port : 5129
+Awaiting Connection(s)...
+Connection With Client Established.
+******************************************************************
+PATIENT DETAILS
+Name :- Rohan
+Address :- Delhi
+Age :- 20
+Diabetes :- 1
+CVD :- 0
+******************************************************************
+Current Thread : 2 Accessed Ny Patient No :  1001
+Message from Patient No :  1001 ---- Hello There
+Enter Reply :   Hi m8
+Current Thread : 2 Accessed Ny Patient No :  1001
+Connection With Client Established.
+******************************************************************
+PATIENT DETAILS
+Name :- Anand
+Address :- Banglore
+Age :- 20
+Diabetes :- 0
+CVD :- 0
+******************************************************************
+Current Thread : 3 Accessed Ny Patient No :  1002
+Message from Patient No :  1002 ---- Hie
+Enter Reply :   Hello
+Current Thread : 3 Accessed Ny Patient No :  1002
+Patient No :- 1002 Has Disconnected from Thread Number 0
+Patient No :- 1001 Has Disconnected from Thread Number 4

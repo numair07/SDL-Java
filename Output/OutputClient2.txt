@@ -1,0 +1,36 @@
+
+C:\Users\Numair Shaikh\Desktop\Healthcare-Pr1\PrHealthcare\src>java HospClient.java
+Retrieving data...
+Enter 1 to Login as a Paitent.
+Enter 2 to Login as an Admin.
+Enter 3 to Exit.
+1
+Enter Patient Name
+Rohan
+Name :  Rohan
+Address :       Delhi
+Age :   20
+The Patient has Diabetes
+The Patient Does not have any Cardiovascular Disease
+Choose an action :
+1. Get appointment (Chat With A Doctor)
+2. Return to Login
+3. Exit
+1
+Details Sent
+Enter 1 to pass a Message to the Doctor
+Enter 2 to get Appointment from Doctor
+Enter 4 to Continue with other Tasks.
+1
+Enter The Message :-
+Hello There
+Doctor's Reply :-       Hi m8
+Enter 1 to pass a Message to the Doctor
+Enter 2 to get Appointment from Doctor
+Enter 4 to Continue with other Tasks.
+3
+Enter 1 to Login as a Paitent.
+Enter 2 to Login as an Admin.
+Enter 3 to Exit.
+3
+Thank You, GoodBye
